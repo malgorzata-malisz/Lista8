@@ -1,2 +1,3 @@
 # Lista8
-zadanie3
+zadanie 3
+zmiana lepsza
